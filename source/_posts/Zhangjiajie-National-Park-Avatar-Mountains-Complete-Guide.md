@@ -12,6 +12,8 @@ categories:
   - Nature & Scenery
 ---
 
+![Zhangjiajie Floating Mountains](https://images.unsplash.com/photo-1599571383348-1eb5d4750172?q=80&w=1000&auto=format&fit=crop)
+
 ## Introduction: The Real-Life Avatar Mountains
 
 Remember the floating Hallelujah Mountains from James Cameron's *Avatar*? They're real—and they're in China.

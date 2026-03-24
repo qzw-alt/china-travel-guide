@@ -9,6 +9,8 @@ categories:
   - New to China
 ---
 
+![Chinese Visa in Passport](https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=1000&auto=format&fit=crop)
+
 ## Introduction
 
 Planning a trip to China? The first step is getting your visa. This comprehensive guide will walk you through the entire process, from determining which visa you need to submitting your application.
