@@ -26,6 +26,8 @@ The most common visa for travelers visiting China for tourism purposes.
 
 ## Required Documents
 
+![Passport and Documents](https://images.unsplash.com/photo-1544636331-e26879cd4d9b?q=80&w=1000&auto=format&fit=crop)
+
 1. **Valid Passport**
    - Must be valid for at least 6 months beyond your planned stay
    - At least two blank visa pages
@@ -55,6 +57,8 @@ Visit [visaforchina.cn](https://www.visaforchina.cn) and fill out the form compl
 
 ### Step 2: Book an Appointment
 Schedule your appointment at the nearest Chinese Visa Application Service Center (CVASC).
+
+![Airport Travel](https://images.unsplash.com/photo-1436491865332-7a61a109cc05?q=80&w=1000&auto=format&fit=crop)
 
 ### Step 3: Submit Documents
 Bring all required documents to your appointment. You may need to provide biometric data (fingerprints).

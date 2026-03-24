@@ -74,6 +74,8 @@ Zhangjiajie is massive—don't try to see everything in one day. The park has th
 
 This is where James Cameron's team spent most of their time. The floating mountains of Pandora were directly inspired by these pillars.
 
+![Yuanjiajie Avatar Mountain](https://images.unsplash.com/photo-1604994182128-56db4e845dfa?q=80&w=1000&auto=format&fit=crop)
+
 **How to get there**: Bailong Elevator (world's tallest outdoor elevator) or hike from Golden Whip Stream.
 
 ### 2. Tianzi Mountain (天子山) — The Emperor's View
@@ -87,6 +89,8 @@ Named after a local rebel leader who called himself "Son of Heaven." Best for su
 **Must-see**: Crystal-clear stream, monkey sightings, peaceful forest walks
 
 A flat 7.5km trail through the valley floor—great for those who want nature without the climb.
+
+![Golden Whip Stream](https://images.unsplash.com/photo-1513415756790-2ac1db1297d0?q=80&w=1000&auto=format&fit=crop)
 
 **How to get there**: Main entrance near Wulingyuan.
 
@@ -129,6 +133,8 @@ A flat 7.5km trail through the valley floor—great for those who want nature wi
 - Ride time: 1 minute 58 seconds
 - **Cost**: ¥72 one-way
 
+![Bailong Elevator](https://images.unsplash.com/photo-1564507592333-c60657eea523?q=80&w=1000&auto=format&fit=crop)
+
 **Tip**: Stand at the front for the best view as you ascend.
 
 ### 2. Zhangjiajie Glass Bridge
@@ -136,6 +142,8 @@ A flat 7.5km trail through the valley floor—great for those who want nature wi
 - 430 meters long, 300 meters high
 - Weight limit enforced (strict security check)
 - **Cost**: ¥128 (separate from park ticket)
+
+![Glass Bridge Zhangjiajie](https://images.unsplash.com/photo-1504214208698-ea1916a2195a?q=80&w=1000&auto=format&fit=crop)
 
 **Note**: No cameras, phones, or hard objects allowed (lockers provided). They want you to buy their photos.
 
@@ -145,6 +153,8 @@ A separate mountain with:
 - World's longest cable car (30-minute ride)
 - Glass skywalk on cliff edge
 - Tianmen Cave ("Heaven's Gate")—a massive natural arch
+
+![Tianmen Mountain](https://images.unsplash.com/photo-1528164344705-47542687000d?q=80&w=1000&auto=format&fit=crop)
 
 **Cost**: ¥278 (includes cable car)
 **Location**: Near Zhangjiajie city (not Wulingyuan)
