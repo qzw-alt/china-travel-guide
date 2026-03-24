@@ -1,0 +1,94 @@
+# NexT Theme Configuration
+# Override theme settings here
+
+# Scheme
+scheme: Mist
+
+# Menu
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+
+# Sidebar
+sidebar:
+  position: left
+  display: post
+  padding: 18
+  offset: 12
+
+# Avatar
+avatar:
+  url: 
+  rounded: true
+  rotated: false
+
+# Site Info
+site_state: true
+
+# Social Links
+social:
+  GitHub: https://github.com/qzw-alt || fab fa-github
+
+# Footer
+footer:
+  icon:
+    name: fa fa-globe
+    animated: true
+    color: "#1E90FF"
+  powered: false
+
+# Comments (disabled for now)
+comments:
+  style: tabs
+  active: 
+
+# Local Search
+local_search:
+  enable: true
+  trigger: auto
+  top_n_per_article: 1
+  unescape: false
+  preload: false
+
+# Code Highlight
+codeblock:
+  copy_button:
+    enable: true
+    show_result: true
+
+# Post Settings
+post_meta:
+  updated_at:
+    enable: true
+  categories:
+    enable: true
+  tags:
+    enable: true
+
+# Related Posts
+related_posts:
+  enable: true
+  title: Related Posts
+  display_in_home: false
+
+# Reading Progress
+reading_progress:
+  enable: true
+  color: "#37c6c0"
+  height: 2px
+
+# Bookmarks
+bookmark:
+  enable: true
+  color: "#222"
+  save: auto
+
+# Google Analytics (add your ID later)
+google_analytics:
+  tracking_id: 
+
+# SEO
+seo: true
